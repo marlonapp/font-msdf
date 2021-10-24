@@ -1,0 +1,98 @@
+{
+  "georgia": {
+    "georgia": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/georgia/georgia.fnt"
+  },
+  "Lato": {
+    "Lato-Black": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Lato/Lato-Black.fnt",
+    "Lato-BlackItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Lato/Lato-BlackItalic.fnt",
+    "Lato-Bold": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Lato/Lato-Bold.fnt",
+    "Lato-BoldItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Lato/Lato-BoldItalic.fnt",
+    "Lato-Italic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Lato/Lato-Italic.fnt",
+    "Lato-Light": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Lato/Lato-Light.fnt",
+    "Lato-LightItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Lato/Lato-LightItalic.fnt",
+    "Lato-Regular": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Lato/Lato-Regular.fnt",
+    "Lato-Thin": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Lato/Lato-Thin.fnt",
+    "Lato-ThinItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Lato/Lato-ThinItalic.fnt"
+  },
+  "Montserrat": {
+    "Montserrat-Black": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Montserrat/Montserrat-Black.fnt",
+    "Montserrat-BlackItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Montserrat/Montserrat-BlackItalic.fnt",
+    "Montserrat-Bold": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Montserrat/Montserrat-Bold.fnt",
+    "Montserrat-BoldItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Montserrat/Montserrat-BoldItalic.fnt",
+    "Montserrat-ExtraBold": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Montserrat/Montserrat-ExtraBold.fnt",
+    "Montserrat-ExtraBoldItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Montserrat/Montserrat-ExtraBoldItalic.fnt",
+    "Montserrat-ExtraLight": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Montserrat/Montserrat-ExtraLight.fnt",
+    "Montserrat-ExtraLightItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Montserrat/Montserrat-ExtraLightItalic.fnt",
+    "Montserrat-Italic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Montserrat/Montserrat-Italic.fnt",
+    "Montserrat-Light": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Montserrat/Montserrat-Light.fnt",
+    "Montserrat-LightItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Montserrat/Montserrat-LightItalic.fnt",
+    "Montserrat-Medium": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Montserrat/Montserrat-Medium.fnt",
+    "Montserrat-MediumItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Montserrat/Montserrat-MediumItalic.fnt",
+    "Montserrat-Regular": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Montserrat/Montserrat-Regular.fnt",
+    "Montserrat-SemiBold": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Montserrat/Montserrat-SemiBold.fnt",
+    "Montserrat-SemiBoldItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Montserrat/Montserrat-SemiBoldItalic.fnt",
+    "Montserrat-Thin": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Montserrat/Montserrat-Thin.fnt",
+    "Montserrat-ThinItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Montserrat/Montserrat-ThinItalic.fnt"
+  },
+  "Open_Sans": {
+    "OpenSans-Italic-VariableFont_wdth,wght": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Open_Sans/OpenSans-Italic-VariableFont_wdth,wght.fnt",
+    "OpenSans-VariableFont_wdth,wght": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Open_Sans/OpenSans-VariableFont_wdth,wght.fnt"
+  },
+  "Playfair_Display": {
+    "PlayfairDisplay-Italic-VariableFont_wght": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Playfair_Display/PlayfairDisplay-Italic-VariableFont_wght.fnt",
+    "PlayfairDisplay-VariableFont_wght": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.fnt"
+  },
+  "Poppins": {
+    "Poppins-Black": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Poppins/Poppins-Black.fnt",
+    "Poppins-BlackItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Poppins/Poppins-BlackItalic.fnt",
+    "Poppins-Bold": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Poppins/Poppins-Bold.fnt",
+    "Poppins-BoldItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Poppins/Poppins-BoldItalic.fnt",
+    "Poppins-ExtraBold": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Poppins/Poppins-ExtraBold.fnt",
+    "Poppins-ExtraBoldItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Poppins/Poppins-ExtraBoldItalic.fnt",
+    "Poppins-ExtraLight": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Poppins/Poppins-ExtraLight.fnt",
+    "Poppins-ExtraLightItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Poppins/Poppins-ExtraLightItalic.fnt",
+    "Poppins-Italic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Poppins/Poppins-Italic.fnt",
+    "Poppins-Light": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Poppins/Poppins-Light.fnt",
+    "Poppins-LightItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Poppins/Poppins-LightItalic.fnt",
+    "Poppins-Medium": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Poppins/Poppins-Medium.fnt",
+    "Poppins-MediumItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Poppins/Poppins-MediumItalic.fnt",
+    "Poppins-Regular": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Poppins/Poppins-Regular.fnt",
+    "Poppins-SemiBold": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Poppins/Poppins-SemiBold.fnt",
+    "Poppins-SemiBoldItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Poppins/Poppins-SemiBoldItalic.fnt",
+    "Poppins-Thin": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Poppins/Poppins-Thin.fnt",
+    "Poppins-ThinItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Poppins/Poppins-ThinItalic.fnt"
+  },
+  "Raleway": {
+    "Raleway-Italic-VariableFont_wght": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Raleway/Raleway-Italic-VariableFont_wght.fnt",
+    "Raleway-VariableFont_wght": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Raleway/Raleway-VariableFont_wght.fnt"
+  },
+  "Roboto": {
+    "Roboto-Black": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Roboto/Roboto-Black.fnt",
+    "Roboto-BlackItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Roboto/Roboto-BlackItalic.fnt",
+    "Roboto-Bold": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Roboto/Roboto-Bold.fnt",
+    "Roboto-BoldItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Roboto/Roboto-BoldItalic.fnt",
+    "Roboto-Italic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Roboto/Roboto-Italic.fnt",
+    "Roboto-Light": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Roboto/Roboto-Light.fnt",
+    "Roboto-LightItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Roboto/Roboto-LightItalic.fnt",
+    "Roboto-Medium": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Roboto/Roboto-Medium.fnt",
+    "Roboto-MediumItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Roboto/Roboto-MediumItalic.fnt",
+    "Roboto-Regular": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Roboto/Roboto-Regular.fnt",
+    "Roboto-Thin": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Roboto/Roboto-Thin.fnt",
+    "Roboto-ThinItalic": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Roboto/Roboto-ThinItalic.fnt"
+  },
+  "Roboto_Mono": {
+    "RobotoMono-Italic-VariableFont_wght": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Roboto_Mono/RobotoMono-Italic-VariableFont_wght.fnt",
+    "RobotoMono-VariableFont_wght": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Roboto_Mono/RobotoMono-VariableFont_wght.fnt"
+  },
+  "Zen_Antique_Soft": {
+    "ZenAntiqueSoft-Regular": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Zen_Antique_Soft/ZenAntiqueSoft-Regular.fnt"
+  },
+  "Zen_Kurenaido": {
+    "ZenKurenaido-Regular": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Zen_Kurenaido/ZenKurenaido-Regular.fnt"
+  },
+  "Zen_Old_Mincho": {
+    "ZenOldMincho-Black": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Zen_Old_Mincho/ZenOldMincho-Black.fnt",
+    "ZenOldMincho-Bold": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Zen_Old_Mincho/ZenOldMincho-Bold.fnt",
+    "ZenOldMincho-Regular": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Zen_Old_Mincho/ZenOldMincho-Regular.fnt"
+  }
+}
