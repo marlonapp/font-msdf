@@ -86,16 +86,5 @@
   "Roboto_Mono": {
     "RobotoMono-Italic-VariableFont_wght": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Roboto_Mono/RobotoMono-Italic-VariableFont_wght.fnt",
     "RobotoMono-VariableFont_wght": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Roboto_Mono/RobotoMono-VariableFont_wght.fnt"
-  },
-  "Zen_Antique_Soft": {
-    "ZenAntiqueSoft-Regular": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Zen_Antique_Soft/ZenAntiqueSoft-Regular.fnt"
-  },
-  "Zen_Kurenaido": {
-    "ZenKurenaido-Regular": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Zen_Kurenaido/ZenKurenaido-Regular.fnt"
-  },
-  "Zen_Old_Mincho": {
-    "ZenOldMincho-Black": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Zen_Old_Mincho/ZenOldMincho-Black.fnt",
-    "ZenOldMincho-Bold": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Zen_Old_Mincho/ZenOldMincho-Bold.fnt",
-    "ZenOldMincho-Regular": "https://raw.githubusercontent.com/marlonapp/font-msdf/master/fonts/Zen_Old_Mincho/ZenOldMincho-Regular.fnt"
   }
 }
